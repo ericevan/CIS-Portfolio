@@ -7,8 +7,6 @@ CIS150
 Information Technology Ethics (Case Analysis)
 CIS199
 Software Development (C# beginner)
-CIS200
-Software Development (C# intermediate)
 CIS300
 Computer Info Systems (Excel and Access)
 CIS310
@@ -21,3 +19,4 @@ CIS410
 Management of Information Systems (Case Reports, CUE Course, and Interview Materials)
 CIS420
 CIS Development Project (C# .NET MVC)
+https://github.com/jhhoff02/SurgeryOnSunday
